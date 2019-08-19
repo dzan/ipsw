@@ -1,4 +1,5 @@
 baseURL = "https://blacktop.github.io/ipsw/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "ananke"
+themesDir = "themes"
+theme = "hugo-whisper-theme"
